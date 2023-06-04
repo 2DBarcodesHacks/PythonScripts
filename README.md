@@ -6,14 +6,14 @@ The following python scripts generates 2D barcodes that comprises a series of co
 Each script perform a different action.
 
 The scripts were tested tested with the following barcode scanners:
-Honeywell Voyager 1400G
-Datalogic QuickScan QW2420
-Eyoyo EY-L5
+- Honeywell Voyager 1400G
+- Datalogic QuickScan QW2420
+- Eyoyo EY-L5
 
 The tests were made with the following laptops and operating systems:
-DELL P62F001 laptop Windows 10, Version 10.0.19043.1237
-Asus G731GU  laptop Windows 10, Version 10.0.19043.1237
-Asus G731GU  laptop Windows 11, Version 10.0.22000.282
+- DELL P62F001 laptop Windows 10, Version 10.0.19043.1237
+- Asus G731GU  laptop Windows 10, Version 10.0.19043.1237
+- Asus G731GU  laptop Windows 11, Version 10.0.22000.282
 
 The script were created by Paz Hameiri in 2022 and released in 2023
 
