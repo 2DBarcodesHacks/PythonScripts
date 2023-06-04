@@ -135,4 +135,49 @@ The last barcode:
 11. Execute the unzipped files
 12. Enter an item code in a point-of-sale software
 
+# Upload and run file - Base64 encoding with PS.py
+The Python script generates 2D barcodes that comprises a series of commands to perform the following actions:
+The first barcode:
+1. Open the Windows Start menu
+2. Search and execute a PowerShell window
+3. Minimize the size of the window
+4. Upload the first part of a file (Base64 encoded) to the host
+Each following barcode:
+5. Upload the following file part (Base64 encoded) to the host
+The last barcode:
+6. Upload the last file part (Base64 encoded) to the host
+7. Decode the uploaded file and delete it
+8. Unzip the decoded file and delete it
+9. Execute the unzipped files
+
+# Upload and run file - Base64 encoding.py
+The Python script generates 2D barcodes that comprises a series of commands to perform the following actions:
+The first barcode:
+1. Open the Windows Start menu
+2. Search and execute a command-line window
+3. Minimize the size of the window
+4. Upload the first part of a file (Base64 encoded) to the host
+Each following barcode:
+5. Upload the following file part (Base64 encoded) to the host
+The last barcode:
+6. Upload the last file part (Base64 encoded) to the host
+7. Decode the uploaded file and delete it
+8. Unzip the decoded file and delete it
+9. Execute the unzipped files
+
+# Upload and run file - Hex encoding.py
+The Python script generates 2D barcodes that comprises a series of commands to perform the following actions:
+The first barcode:
+1. Open the Windows Start menu
+2. Search and execute a command-line window
+3. Minimize the size of the window
+4. Upload the first part of a file (hex-encoded) to the host
+Each following barcode:
+5. Upload the following file part (hex-encoded) to the host
+The last barcode:
+6. Upload the last file part (hex-encoded) to the host
+7. Decode the uploaded file and delete it
+8. Unzip the decoded file and delete it
+9. Execute the unzipped files
+
 
