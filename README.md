@@ -1,6 +1,7 @@
 # PythonScripts
-Python examples scripts for "Barcode scanners are disguised windows to your Windows" BSidesTLV 2023 Talk
+"Barcode scanners are disguised windows to your Windows" BSidesTLV 2023 Talk Python scripts.
 
+# Description
 The following python scripts generates 2D barcodes that comprises a series of commands and data.
 Each script perform a different action.
 
@@ -24,3 +25,23 @@ CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
 LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
 NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
 CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+# Download file with CMD and PS with POS entry.py
+The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+1. Enter an item code in a POS software
+2. Open the Windows Start menu
+3. Search and execute a command-line window
+4. Minimize the size of the window
+5. Download a file
+6. Execute the file
+7. Approve the execution at the User Account Control window
+
+# Download file with CMD and PS.py
+The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+1. Open the Windows Start menu
+2. Search and execute a command-line window
+3. Minimize the size of the window
+4. Download a file
+5. Execute the file
+6. Approve the execution at the User Account Control window
+
