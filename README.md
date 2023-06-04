@@ -72,11 +72,13 @@ The Python script generates a 2D barcode that comprises a series of commands to 
 
 # Open CMD via Task Manager.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+
 For the Honeywell and Eyoyo barcode scanners:
 1. Press Ctrl-Alt-Del
 2. Select the Task Manager in the User Account Control window
 3. Choose to run a new task
 4. Run cmd.exe to open a command-line window
+
 For the Datalogic barcode scanner:
 1. Press Ctrl-Shift-Esc
 2. Choose to run a new task
@@ -111,14 +113,17 @@ The Python script generates a 2D barcode that comprises a series of commands to 
 
 # Open Task Manager.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+
 For the Honeywell and Eyoyo barcode scanners:
 1. Press Ctrl-Alt-Del
 2. Select the Task Manager in the User Account Control window
+
 For the Datalogic barcode scanner:
 1. Press Ctrl-Shift-Esc
 
 # Upload and run file - Base64 encoding with POS entry.py
 The Python script generates 2D barcodes that comprises a series of commands to perform the following actions:
+
 The first barcode:
 1. Open the Windows Start menu
 2. Search and execute a command-line window
@@ -137,6 +142,7 @@ The last barcode:
 
 # Upload and run file - Base64 encoding with PS.py
 The Python script generates 2D barcodes that comprises a series of commands to perform the following actions:
+
 The first barcode:
 1. Open the Windows Start menu
 2. Search and execute a PowerShell window
@@ -152,6 +158,7 @@ The last barcode:
 
 # Upload and run file - Base64 encoding.py
 The Python script generates 2D barcodes that comprises a series of commands to perform the following actions:
+
 The first barcode:
 1. Open the Windows Start menu
 2. Search and execute a command-line window
@@ -167,6 +174,7 @@ The last barcode:
 
 # Upload and run file - Hex encoding.py
 The Python script generates 2D barcodes that comprises a series of commands to perform the following actions:
+
 The first barcode:
 1. Open the Windows Start menu
 2. Search and execute a command-line window
