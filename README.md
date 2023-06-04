@@ -27,7 +27,7 @@ NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
 CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 # Download file with CMD and PS with POS entry.py
-The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Enter an item code in a POS software
 2. Open the Windows Start menu
 3. Search and execute a command-line window
@@ -37,7 +37,7 @@ The following Python script generates a 2D barcode that comprises a series of co
 7. Approve the execution at the User Account Control window
 
 # Download file with CMD and PS.py
-The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute a command-line window
 3. Minimize the size of the window
