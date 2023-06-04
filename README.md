@@ -64,14 +64,14 @@ The Python script generates a 2D barcode that comprises a series of commands to 
 4. Hide the command-line windows behind an active software
 
 # Open CMD as Admin.py
-The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute a PowerShell window
 3. Open a command-line window as an administrator
 4. Approve the command at the User Account Control window
 
 # Open CMD via Task Manager.py
-The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 For the Honeywell and Eyoyo barcode scanners:
 1. Press Ctrl-Alt-Del
 2. Select the Task Manager in the User Account Control window
@@ -83,22 +83,56 @@ For the Datalogic barcode scanner:
 3. Run cmd.exe to open a command-line window
 
 # Open CMD.py
-The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute a command-line window
 
 # Open OSK.py
-The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute the on-screen keyboard
 
 # Open PowerShell as Admin.py
-The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute a PowerShell window
 3. Open a PowerShell window as an administrator
 4. Approve the command at the User Account Control window
 
+# Open PowerShell.py
+The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+1. Open the Windows Start menu
+2. Search and execute a PowerShell window
 
+# Open System Information.py
+The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+1. Open the Windows Start menu
+2. Search and execute the System Information tool
+
+# Open Task Manager.py
+The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+For the Honeywell and Eyoyo barcode scanners:
+1. Press Ctrl-Alt-Del
+2. Select the Task Manager in the User Account Control window
+For the Datalogic barcode scanner:
+1. Press Ctrl-Shift-Esc
+
+# Upload and run file - Base64 encoding with POS entry.py
+The Python script generates 2D barcodes that comprises a series of commands to perform the following actions:
+The first barcode:
+1. Open the Windows Start menu
+2. Search and execute a command-line window
+3. Minimize the size of the window
+4. Upload the first part of a file (Base64 encoded) to the host
+5. Enter an item code in a point-of-sale software
+Each following barcode:
+6. Upload the following file part (Base64 encoded) to the host
+7. Enter an item code in a point-of-sale software
+The last barcode:
+8. Upload the last file part (Base64 encoded) to the host
+9. Decode the uploaded file and delete it
+10. Unzip the decoded file and delete it
+11. Execute the unzipped files
+12. Enter an item code in a point-of-sale software
 
 
