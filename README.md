@@ -45,3 +45,60 @@ The Python script generates a 2D barcode that comprises a series of commands to 
 5. Execute the file
 6. Approve the execution at the User Account Control window
 
+# FullScreenSelfCheckoutPOS.py
+A simple self-checkout point-of-sale system software demo.
+
+# Hide CMD with POS entry.py
+The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+1. Open the Windows Start menu
+2. Search and execute a command-line window
+3. Minimize the size of the window
+4. Hide the command-line windows behind a point-of-sale software
+5. Enter an item code in the point-of-sale software
+
+# Hide CMD.py
+The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+1. Open the Windows Start menu
+2. Search and execute a command-line window
+3. Minimize the size of the window
+4. Hide the command-line windows behind an active software
+
+# Open CMD as Admin.py
+The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+1. Open the Windows Start menu
+2. Search and execute a PowerShell window
+3. Open a command-line window as an administrator
+4. Approve the command at the User Account Control window
+
+# Open CMD via Task Manager.py
+The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+For the Honeywell and Eyoyo barcode scanners:
+1. Press Ctrl-Alt-Del
+2. Select the Task Manager in the User Account Control window
+3. Choose to run a new task
+4. Run cmd.exe to open a command-line window
+For the Datalogic barcode scanner:
+1. Press Ctrl-Shift-Esc
+2. Choose to run a new task
+3. Run cmd.exe to open a command-line window
+
+# Open CMD.py
+The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+1. Open the Windows Start menu
+2. Search and execute a command-line window
+
+# Open OSK.py
+The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+1. Open the Windows Start menu
+2. Search and execute the on-screen keyboard
+
+# Open PowerShell as Admin.py
+The following Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
+1. Open the Windows Start menu
+2. Search and execute a PowerShell window
+3. Open a PowerShell window as an administrator
+4. Approve the command at the User Account Control window
+
+
+
+
