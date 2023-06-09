@@ -1,6 +1,4 @@
-# PythonScripts
-"Barcode scanners are disguised windows to your Windows" BSidesTLV 2023 Talk Python scripts.
-
+## "Barcode scanners are disguised windows to your Windows" BSidesTLV 2023 Talk Python scripts
 # Description
 The following python scripts generates 2D barcodes that comprises a series of commands and data.
 Each script perform a different action.
