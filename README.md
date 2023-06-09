@@ -1,5 +1,5 @@
-## "Barcode scanners are disguised windows to your Windows" BSidesTLV 2023 Talk Python scripts
-# Description
+# "Barcode scanners are disguised windows to your Windows" BSidesTLV 2023 Talk Python scripts
+## Description
 The following python scripts generates 2D barcodes that comprises a series of commands and data.
 Each script perform a different action.
 
@@ -24,17 +24,17 @@ LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
 NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
 CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-# Open CMD.py
+## Open CMD.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute a command-line window
 
-# Open PowerShell.py
+## Open PowerShell.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute a PowerShell window
 
-# Open Task Manager.py
+## Open Task Manager.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 
 For the Honeywell and Eyoyo barcode scanners:
@@ -44,7 +44,7 @@ For the Honeywell and Eyoyo barcode scanners:
 For the Datalogic barcode scanner:
 1. Press Ctrl-Shift-Esc
 
-# Open CMD via Task Manager.py
+## Open CMD via Task Manager.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 
 For the Honeywell and Eyoyo barcode scanners:
@@ -58,38 +58,38 @@ For the Datalogic barcode scanner:
 2. Choose to run a new task
 3. Run cmd.exe to open a command-line window
 
-# Open System Information.py
+## Open System Information.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute the System Information tool
 
-# Open OSK.py
+## Open OSK.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute the on-screen keyboard
 
-# Hide CMD.py
+## Hide CMD.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute a command-line window
 3. Minimize the size of the window
 4. Hide the command-line windows behind an active software
 
-# Open CMD as Admin.py
+## Open CMD as Admin.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute a PowerShell window
 3. Open a command-line window as an administrator
 4. Approve the command at the User Account Control window
 
-# Open PowerShell as Admin.py
+## Open PowerShell as Admin.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute a PowerShell window
 3. Open a PowerShell window as an administrator
 4. Approve the command at the User Account Control window
 
-# Download file with CMD and PS.py
+## Download file with CMD and PS.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute a command-line window
@@ -98,7 +98,7 @@ The Python script generates a 2D barcode that comprises a series of commands to 
 5. Execute the file
 6. Approve the execution at the User Account Control window
 
-# Upload and run file - Base64 encoding.py
+## Upload and run file - Base64 encoding.py
 The Python script generates 2D barcodes that comprises a series of commands to perform the following actions:
 
 The first barcode:
@@ -114,7 +114,7 @@ The last barcode:
 8. Unzip the decoded file and delete it
 9. Execute the unzipped files
 
-# Upload and run file - Hex encoding.py
+## Upload and run file - Hex encoding.py
 The Python script generates 2D barcodes that comprises a series of commands to perform the following actions:
 
 The first barcode:
@@ -130,7 +130,7 @@ The last barcode:
 8. Unzip the decoded file and delete it
 9. Execute the unzipped files
 
-# Upload and run file - Base64 encoding with PS.py
+## Upload and run file - Base64 encoding with PS.py
 The Python script generates 2D barcodes that comprises a series of commands to perform the following actions:
 
 The first barcode:
@@ -146,10 +146,10 @@ The last barcode:
 8. Unzip the decoded file and delete it
 9. Execute the unzipped files
 
-# FullScreenSelfCheckoutPOS.py
+## FullScreenSelfCheckoutPOS.py
 A simple self-checkout point-of-sale system software demo.
 
-# Hide CMD with POS entry.py
+## Hide CMD with POS entry.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Open the Windows Start menu
 2. Search and execute a command-line window
@@ -157,7 +157,7 @@ The Python script generates a 2D barcode that comprises a series of commands to 
 4. Hide the command-line windows behind a point-of-sale software
 5. Enter an item code in the point-of-sale software
 
-# Download file with CMD and PS with POS entry.py
+## Download file with CMD and PS with POS entry.py
 The Python script generates a 2D barcode that comprises a series of commands to perform the following actions:
 1. Enter an item code in a POS software
 2. Open the Windows Start menu
@@ -167,7 +167,7 @@ The Python script generates a 2D barcode that comprises a series of commands to 
 6. Execute the file
 7. Approve the execution at the User Account Control window
 
-# Upload and run file - Base64 encoding with POS entry.py
+## Upload and run file - Base64 encoding with POS entry.py
 The Python script generates 2D barcodes that comprises a series of commands to perform the following actions:
 
 The first barcode:
