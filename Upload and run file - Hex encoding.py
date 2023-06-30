@@ -104,7 +104,7 @@ BarcodeTextLimit = 1100 # It is assumed that the number is bigger than the numbe
                         # required for the commands that come before the first part of the file
 
 ###################################################################
-# Generate 2D barcodes that comprises a series of commands to     #
+# Generate 2D barcodes that comprise a series of commands to      #
 # perform the following actions:                                  #
 # The first barcode:                                              #
 # 1. Open the Windows Start menu                                  #
